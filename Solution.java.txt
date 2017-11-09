@@ -1,0 +1,2 @@
+puclic class ststic void main(){
+}
